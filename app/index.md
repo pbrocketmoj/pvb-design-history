@@ -1,7 +1,7 @@
 ---
 layout: collection
-title: "A design history for prison visits booking at MOJ"
-description: "Document and share design decisions. Create a permanent record of how the service has developed over time."
+title: "Visit someone in prison design history"
+description: "Documentation of our designs and the decisions behind them."
 pagination:
   data: collections.all
   reverse: true
